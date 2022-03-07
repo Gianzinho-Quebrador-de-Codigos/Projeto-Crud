@@ -1,0 +1,7 @@
+.cor:invalid{
+outline-color: red;
+}
+
+.cor:valid{
+    outline-color:green;
+    }
